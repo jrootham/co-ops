@@ -12,7 +12,7 @@ At this point the pricing is proposed to be fairly arbitrarily set at $4,000 per
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/membership/responsibilities">← Return to Membership Responsibilities</a>
-  <a class="secondary" role="button" href="/register/">Proceed to Register →</a>
+  <a class="secondary" role="button" href="{{'membership/responsibilities' | relative_url }}">← Return to Membership Responsibilities</a>
+  <a class="secondary" role="button" href="{{'register/' | relative_url }}">Proceed to Register →</a>
 </div>
 </footer>

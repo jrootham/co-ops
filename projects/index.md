@@ -18,7 +18,7 @@ If the [Initiative Section](/initiative/) explains the theory and phases, this s
 {% assign sorted_projects = site.projects | sort: 'quarter' %}
 {% for project in sorted_projects %}
   <li>
-    <a href="{{ project.url }}">{{ project.title }}</a>
+    <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
     <small>
       ({{ project.phase }} | {{ project.quarter }} | 
       <strong>{{ project.status | capitalize }}</strong>)
@@ -39,6 +39,6 @@ If the [Initiative Section](/initiative/) explains the theory and phases, this s
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/contribute">Learn how you can contribute →</a>
+  <a class="secondary" role="button" href="{{'contribute' | relative_url }}">Learn how you can contribute →</a>
 </div>
 </footer>

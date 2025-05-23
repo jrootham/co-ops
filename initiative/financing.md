@@ -143,7 +143,7 @@ Together, we’re creating a housing system rooted in **dignity, transparency, a
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/initiative/how-it-works">← Return to How it Works</a>
-  <a class="secondary" role="button" href="/initiative/partners">Continue to Initiative Partners →</a> 
+  <a class="secondary" role="button" href="{{ 'initiative/how-it-works' | relative_url }}">← Return to How it Works</a>
+  <a class="secondary" role="button" href="{{ 'initiative/partners' |relative_url }}">Continue to Initiative Partners →</a> 
 </div>
 </footer>

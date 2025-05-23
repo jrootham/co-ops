@@ -17,7 +17,7 @@ People who sell the land to the land trust are first in line to join the co-op.
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/membership/">← Return to the Membership Overview</a>
-  <a class="secondary" role="button" href="/membership/responsibilities">Proceed to Membership Responsibilities →</a>
+  <a class="secondary" role="button" href="{{'membership/' | relative_url }}">← Return to the Membership Overview</a>
+  <a class="secondary" role="button" href="{{'/membership/responsibilities' | relative_url }}">Proceed to Membership Responsibilities →</a>
 </div>
 </footer>

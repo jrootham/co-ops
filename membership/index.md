@@ -18,6 +18,6 @@ Get involved with the initiative >
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/membership/how-membership-works">Proceed to How Membership Works →</a>
+  <a class="secondary" role="button" href="{{'membership/how-membership-works' | relative_url }}">Proceed to How Membership Works →</a>
 </div>
 </footer>

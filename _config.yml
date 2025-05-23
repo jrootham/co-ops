@@ -19,14 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Toronto Multiplex Development Co-op (TMDC)
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Together, we can build a housing future rooted in dignity, democracy, and real
   affordability.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/co-ops" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+github_username: jrootham
 
 # Build settings
 # theme: minima

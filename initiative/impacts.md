@@ -86,7 +86,7 @@ We hold ourselves accountable not just to what we build — but how we build it.
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/initiative/partners">← Return to Partners</a>
-  <a class="secondary" role="button" href="/initiative/implementation">Continue to Implementation →</a>
+  <a class="secondary" role="button" href="{{'initiative/partners' | relative_url }}">← Return to Partners</a>
+  <a class="secondary" role="button" href="{{'initiative/implementation' | relative_url }}">Continue to Implementation →</a>
 </div>
 </footer>

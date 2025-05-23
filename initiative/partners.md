@@ -97,7 +97,7 @@ Let’s co-create the conditions for housing justice in Toronto—and beyond.
 
 <footer>
 <div role="group">
-    <a class="secondary" role="button" href="/initiative/financing">← Return to Financing</a>
-    <a class="secondary" role="button" href="/initiative/impacts">Continue to Impacts →</a>
+    <a class="secondary" role="button" href="{{'initiative/financing' | relative_url }}">← Return to Financing</a>
+    <a class="secondary" role="button" href="{{'initiative/impacts' | relative_url }}">Continue to Impacts →</a>
 </div>
 </footer>

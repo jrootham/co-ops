@@ -97,6 +97,6 @@ For more detail on project-level status, including milestone dates, entity chart
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/projects">Visit the Projects Section →</a>
+  <a class="secondary" role="button" href="{{'/projects' | relative_url }}">Visit the Projects Section →</a>
 </div>
 </footer>

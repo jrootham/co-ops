@@ -42,7 +42,7 @@ The TMDC model is built around a network of co-operatives, each playing a distin
     <li><strong>Who it serves:</strong> Operating co-ops (see below) that manage each housing site.</li>
     <li><strong>Why it matters:</strong> It replaces for-profit banks with a mission-aligned, transparent financial partner.</li>
   </ul>
-  <p>Learn more about the financial model and instruments on the <a href="/initiative/initiative-financing">Financing page</a>.</p>
+  <p>Learn more about the financial model and instruments on the <a href="{{'initiative/initiative-financing' | relative_url }}">Financing page</a>.</p>
 </details>
 <hr>
 <details name="coops">
@@ -90,7 +90,7 @@ If you're curious about how the system is financed—including details on commun
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/initiative/">← Return to Initiative Overview</a>
-  <a class="secondary" role="button" href="/initiative/financing">Continue to Initiative Financing →</a>
+  <a class="secondary" role="button" href="{{'initiative/' | relative_url }}">← Return to Initiative Overview</a>
+  <a class="secondary" role="button" href="{{'initiative/financing' | relative_url }}">Continue to Initiative Financing →</a>
 </div>
 </footer>

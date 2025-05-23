@@ -96,6 +96,6 @@ We do this by launching and connecting three core co-ops:
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/initiative/how-it-works">Proceed to How it Works →</a>
+  <a class="secondary" role="button" href="{{'/initiative/how-it-works' | relative_url }}">Proceed to How it Works →</a>
 </div>
 </footer>

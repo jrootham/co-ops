@@ -35,7 +35,7 @@ Check out our current needs:
     {% for project in site.projects %}
       {% assign open_roles = project.team | where: "status", "Needed" %}
       {% if open_roles.size > 0 %}
-        <li>Project: <a href="{{ project.url }}">{{ project.title }}</a>
+        <li>Project: <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
           <ul>
             {% for role in open_roles %}
               <li>{{ role.role }}</li>

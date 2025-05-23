@@ -39,7 +39,7 @@ Certain board members are designated as signing officers. These people review an
 
 <footer>
 <div role="group">
-  <a class="secondary" role="button" href="/membership/how-membership-works">← Return to How Membership Works</a>
-  <a class="secondary" role="button" href="/membership/money-matters">Proceed to Money Matters →</a>
+  <a class="secondary" role="button" href="{{'membership/how-membership-works' | relative_url }}">← Return to How Membership Works</a>
+  <a class="secondary" role="button" href="{{'membership/money-matters' | relative_url }}">Proceed to Money Matters →</a>
 </div>
 </footer>
