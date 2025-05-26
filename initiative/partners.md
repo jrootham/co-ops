@@ -44,7 +44,7 @@ _Helping us root housing in community and remove it from speculation_
 - Community Land Trusts (CLTs)
   - Land is held in trust for permanent affordability and public benefit.
   - TMDC seeks to work with CLTs to ensure long-term community ownership of land.
-  - **Example**: The Toronto Indigenous Community Land Trust (TICLT) is a preferred partner, both in recognition of the Land Back movement and to support reconciliation.
+  - **Example**: The Toronto Indigenous Community Land Trust (TICLT) is a preferred partner, supporting reconciliation as part of the Land Back movement.
 - Tenant organizations and neighborhood associations
 - Planning and zoning allies
 - Indigenous governance bodies and community developers
@@ -75,7 +75,7 @@ _Helping us structure transparent, mission-aligned financing_
 - Credit unions (e.g., for holding reserve accounts or member funds)
 - Community bond platforms
 - Co-op law specialists and corporate governance advisors
-- Financial compliance experts (OSC, CRA, etc.)
+- Financial compliance experts (for dealing with OSC, CRA, etc.)
 
 **Their roles**:
 
