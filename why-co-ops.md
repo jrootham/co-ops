@@ -31,7 +31,7 @@ All co-ops typically have the same control structure. The membership elects a bo
 
 There is also staff who do the day to day work. For employment law (confidentiality) reasons the staff are employees of the board as opposed to being directly employed by the membership.
 
-In this case the current expectation is that there is a lot of initial work by the board and the membership to make initial decisions about how to develop housing co-ops but that this should stabilize into annual members meetings and quarterly board meetings.
+In this case the current expectation is that there is a lot of early work by the board and the membership to make initial decisions about how to develop housing co-ops but that this could possibly stabilize into annual members meetings and quarterly board meetings.
 
 There is a waiting list. The people on the waiting list are the members of the organization.
 
@@ -41,7 +41,7 @@ To get on to the waiting list the applicant needs to sign documents acknowledgin
 
 They will also need to open an escrow account. This account is designed to cover the member loan for the housing co-op. The current design calls for 5% of the capital costs to be the member loan. The escrow account is a standard investment account all of which belongs to the applicant. The board determines the investment supplier to use. The member may make deposits on the account but may only withdraw money by closing out the account and leaving the co‑op.
 
-When a new building project is proposed, space in the building (and a corresponding membership in the particular co‑op) is offered to members starting at the top of the list. It is at this point that members must have the member loan money. They will also have to pass the screening process of the particular co‑op, normally an interview and a credit check.
+When a new building project is proposed, space in the building (and a corresponding membership in the particular co‑op) is offered to members starting at the top of the list. It is at this point that members must have the member loan money. They will also have to pass a screening process, normally an interview and a credit check. It is an open question as to whether this done by the development co-op or the housing co‑op.
 
 Members without enough money in their escrow account to pay the member loan on a new building remain members. If an opening occurs in an existing building for which they can pay the member loan they can apply to that co-op. This means that there is a common waiting list for all the co-ops developed this way.
 

@@ -9,7 +9,7 @@ include_signup_form: false
 path: what-if-we-could-rethink-rent
 ---
 
-TMDC is creating a system of community-owned housing in Toronto’s inner suburbs.
+TMDC is creating a system of community-owned housing in Toronto’s suburbs.
 
 You don’t have to be rich to find stability. You don’t have to wait to own a piece of something meaningful.
 
