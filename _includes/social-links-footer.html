@@ -26,7 +26,6 @@ Optional:
 {% assign footer_social = site.data.footer_social %}
 
 {% if footer_social %}
-<section class="social-links">
   <div class="social-button-group">
     {% for platform in footer_social %}
       {% assign key = platform[0] %}
@@ -53,5 +52,4 @@ Optional:
       {% endif %}
     {% endfor %}
   </div>
-</section>
 {% endif %}

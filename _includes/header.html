@@ -1,7 +1,7 @@
 <header class="container">
   <nav>
     <ul>
-      <li><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a></li>
+      <li><a href="{{ '/' | relative_url }}">{% include logo.svg %}{{ site.title | escape }}</a></li>
     </ul>
     <ul>
       <li><a href="{{'/#sign-up' | relative_url }}">Sign Up</a></li>

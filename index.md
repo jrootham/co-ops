@@ -5,7 +5,7 @@ layout: container
 <article>
 <section id="intro"  class="grid gridcols-1to2">
   <div>
-  [artwork]
+  [artwork: sketch of people person at home happy drinking warm beverage in mug]
   </div>
   <div>
     <h2>Let’s Make Housing Feel Human Again</h2>
@@ -87,38 +87,25 @@ layout: container
 </section>
 
 <section id="get-involved">
-<h3>Getting Involved</h3>
-<p>Whether you want to live in a co-op, help organize one, or support from the sidelines — there’s a role for you.</p>
-
-<p>Right now we are gathering [interested folks in the city to join as members as establish the cooperative, the most helping thing you can do right now is register on our mailing list and mark your interest to become a member, and invite others to join]</p>
-
-<p>[Actions you can take today]</p>
-
-<div class="grid">
-
-<article>
-[image of neighbour talking to neighbour]
-<p>[text: help us spread the word]</p>
-</article>
-
-<article>
-[image of citizen calling someone on their phone]
-<p>[text: engage folks across the city]</p>
-</article>
-
-<article>
-[image of people collaborating together]
-<p>[text:join the team and help build]</p>
-</article>
-
-</div>
-
-<nav>
-  <ul>
-    <p>Ready to join? <a class="primary" href="#sign-up">Sign Up</a></p>
-  </ul>
-</nav>
-
+  <h3>Getting Involved</h3>
+  <p>Whether you want to live in a co-op, help organize one, or support from the sidelines — there’s a role for you.</p>
+  <p>[Actions you can take today]</p>
+  <div class="grid">
+    <article>
+      [image of neighbour talking to neighbour]
+      <p>[text: help us spread the word]</p>
+    </article>
+    <article>
+      [image of citizen calling someone on their phone]
+      <p>[text: engage folks across the city]</p>
+    </article>
+    <article>
+      [image of people collaborating together]
+      <p>[text:join the team and help build]</p>
+    </article>
+  </div>
+  <p>Right now we are gathering [interested folks in the city to join as members as establish the cooperative, the most helping thing you can do right now is register on our mailing list and mark your interest to become a member, and invite others to join]</p>
+  <p>Ready to join? <a class="primary" href="#sign-up">Sign Up</a></p>
 </section>
 
 <article>
@@ -207,7 +194,6 @@ layout: container
     type="submit"
     value="Subscribe"
   />
-
 </form>
 </section>
 </article>
