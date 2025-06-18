@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Toronto Multiplex Development Co-op (TMDC)
+title: Toronto Multiplex Co-ops
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Together, we can build a housing future rooted in dignity, democracy, and real
   affordability.
-baseurl: "/co-ops" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jrootham
 
@@ -52,9 +52,6 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  projects:
-    output: true
-    permalink: /project/:path
   lp:
     output: true
     permalink: /lp/:path
