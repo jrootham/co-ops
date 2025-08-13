@@ -1,0 +1,12 @@
+slack:
+  label: CivicTech TO Slack
+  url: "https://civictechto.slack.com/archives/C07699TT2AZ"
+  icon: slack.svg
+github:
+  label: GitHub
+  url: "https://github.com/CivicTechTO/toronto-multiplex-co-ops"
+  icon: github.svg
+bluesky:
+  label: Bluesky
+  url: "https://bsky.app/profile/civictechto.bsky.social"
+  icon: bluesky.svg

@@ -63,6 +63,8 @@ You should see the site running locally. Changes to content or layouts will auto
 
 ---
 
+### 4. Visit the page
+
 ## 📌 Notes
 
 - This is a **work in progress**.
